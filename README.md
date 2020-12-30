@@ -11,10 +11,13 @@ Enter the number of days (min 1 - max 30): 35
 Error!! Re-enter the number of days (min 1 - max 30): 55
 Error!! Re-enter the number of days (min 1 - max 30): 5
 Enter the temperature for 5 days: 1 3 -5 4 3
--------------------------------------------------- -------- 
+---------------------------------------------------------- 
 The first value that resets the sum of temperature when multiplied by -1 is in the 2nd row.
+
+
 CASE STUDY 2:
+
 Enter the number of days (min 1 - max 30): 4
 Enter the temperature for 4 days: 1 2 4 8
--------------------------------------------------- -------- 
+---------------------------------------------------------- 
 There is no value to reset the sum of temperature when multiplied by -1.
