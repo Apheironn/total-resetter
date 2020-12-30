@@ -1,5 +1,5 @@
 I share my homework in the form of questions and answers.
-You can see the answer on codeforc file.
+You can see the answer on codeforc.c file or you can try to solve that question.
 Question is:
 
 According to the number of days (minimum 1, maximum 30) entered on the keyboard and the temperature values ​​of the days; Find the first value that will make the total temperature zero (0) when it is multiplied by -1 and write the C program that displays it on the screen. If the number of days entered from the keyboard is outside of the limit values, the program should warn the user and ask for re-entry.
