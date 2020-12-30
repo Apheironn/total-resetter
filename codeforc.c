@@ -43,8 +43,8 @@ int findtheReset(int values[],int day,int total){
 			total += values[i] * (-2);
 				
 				if(total==0){
-					a=i ; 
-					printf("It's %d. value that resets the sum of temperature when multiplied by -1 and it's %d.\n",a+1,values[i]);
+					a=i+1 ; 
+					printf("It's %d. value that resets the sum of temperature when multiplied by -1 and it's %d.\n",a,values[i]);
 					i=day; // end of the code
 						
 				}
@@ -58,6 +58,6 @@ int findtheReset(int values[],int day,int total){
 		
 	}
 	else{
-		return a+1;	// in that code i didn't use it. But it's usuble for other purposes.
+		return a;	// in that code i didn't use it. But it's usuble for other purposes.
 	}
 }
